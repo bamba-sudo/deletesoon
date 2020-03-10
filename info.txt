@@ -1,0 +1,18 @@
+Hi,
+
+Thank you for signing up with InfinityFree! Your hosting account will now be setup over the next few minutes and this email contains all the information you will need in order to begin using your account.
+
+New Account Information
+These are the details you need to login to your control panel, from where you can start to manage your account and begin building your website.
+
+Domain: bambasudo.epizy.com
+Username: epiz_25316745
+Password: (can be found in your client area)
+
+Domain Information
+It can take up to 48 hours for the website to become visible due to a process called DNS propagation. The actual time depends on many factors, your Internet connection being the most important factor.
+
+What to do now?
+The first thing to do now is to login to your control panel. Go to your client area, find the account and click Control Panel. From there you will be able to install scripts, create databases, add additional domains and more.
+
+After logging in to the control panel for the first time, you will also be able to login to FTP to upload your own website files. You can find the FTP details in your client area.
